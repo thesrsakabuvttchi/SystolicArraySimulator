@@ -4,6 +4,6 @@ The following repository contains the source code for a systolic array based mat
 Apart from the basic matrix multiply operation, the python script also includes a provision to convert convolution operations to matrix multiply operations and perform them. Finally a GUI based frontend is also provided to watch the multiply operations in real time.
 
 GUI Frontend of the simulator<br>
-![Simulation](./images/Simulator.png "GUI Frontend of the simulator")
+![Simulation](./images/Simulator.png "GUI Frontend of the simulator")<br>
 Generated Instructions file<br>
 ![Instructions](./images/Instructions.png "Generated Instructions file")
